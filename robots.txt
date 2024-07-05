@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+Disallow: /register/
+Disallow: /private/
+Allow: /images/
+Allow: /css/
+Sitemap: https://1win.com/sitemap.xml
